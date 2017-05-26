@@ -1,6 +1,6 @@
 {
   "name": "email-node",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "email node package",
   "main": "main/index.js",
   "scripts": {
