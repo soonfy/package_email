@@ -1,0 +1,29 @@
+{
+  "name": "email-node",
+  "version": "1.0.0",
+  "description": "email node package",
+  "main": "main/index.js",
+  "scripts": {
+    "test": "node main/demo.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soonfy/soonfy_email-node.git"
+  },
+  "keywords": [
+    "email",
+    "node"
+  ],
+  "author": "soonfy <soonfy@163.com> (https://github.com/soonfy)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/soonfy/soonfy_email-node/issues"
+  },
+  "homepage": "https://github.com/soonfy/soonfy_email-node#readme",
+  "devDependencies": {
+    "@types/node": "^7.0.22"
+  },
+  "dependencies": {
+    "nodemailer": "^4.0.1"
+  }
+}
